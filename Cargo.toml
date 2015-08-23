@@ -1,0 +1,12 @@
+[package]
+name = "ducter"
+version = "0.1.0"
+authors = ["zerosign <r1nlx0@gmail.com>"]
+
+[dependencies]
+cogset = "*"
+postgres = "*"
+toml = "*"
+docopt = "*"
+docopt_macros = "*"
+rustc-serialize = "*"
